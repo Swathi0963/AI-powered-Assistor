@@ -1,0 +1,6 @@
+streamlit
+pillow
+pytesseract
+pyttsx3
+opencv-python-headless
+numpy
